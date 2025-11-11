@@ -12,7 +12,7 @@ echo "Update Walker configs"
 omarchy-refresh-walker
 
 echo "Copy hooks examples"
-cp -r $OMARCHY_PATH/config/omarchy/* $HOME/.config/omarchy/
+cp -r $OMARCHY_PATH/config/omarchy/* $HOME/.config/hyprisos/
 
 echo "Add packages for updated omarchy-cmd-screenshot"
 omarchy-pkg-add grim slurp wayfreeze-git

@@ -1,3 +1,3 @@
-echo "Install Aether for Omarchy theme creation"
+echo "Install Aether for HyprisOS theme creation"
 
 omarchy-pkg-add aether

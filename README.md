@@ -1,9 +1,11 @@
-# Omarchy
+# HyprisOS
 
-Omarchy is a beautiful, modern & opinionated Linux distribution by DHH.
+HyprisOS is intended to be a fast, efficient, and complete Linux setup.
 
-Read more at [omarchy.org](https://omarchy.org).
+Emphasizing Idempotency, where configuration can be restored to it's original state with minimal effort.
+
+Based on Omarchy, read more at [omarchy.org](https://omarchy.org).
 
 ## License
 
-Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).
+HyprisOS is released under the [MIT License](https://opensource.org/licenses/MIT).

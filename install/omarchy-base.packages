@@ -1,8 +1,6 @@
-# Omarchy core package list installed via install/packaging/base.sh
+# HyprisOS core package list installed via install/packaging/base.sh
 # This file is also used by the ISO builder when determining needs
 
-1password-beta
-1password-cli
 aether
 alacritty
 asdcontrol
@@ -18,9 +16,6 @@ cups
 cups-browsed
 cups-filters
 cups-pdf
-docker
-docker-buildx
-docker-compose
 dust
 evince
 expac
@@ -34,6 +29,7 @@ ffmpegthumbnailer
 fontconfig
 fzf
 github-cli
+ghostty
 gnome-calculator
 gnome-keyring
 gnome-themes-extra
@@ -58,7 +54,6 @@ iwd
 jq
 kdenlive
 kvantum-qt5
-lazydocker
 lazygit
 less
 libsecret
@@ -117,7 +112,6 @@ ttf-jetbrains-mono-nerd
 typora
 tzupdate
 ufw
-ufw-docker
 unzip
 uwsm
 waybar

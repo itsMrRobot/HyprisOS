@@ -7,5 +7,5 @@ if omarchy-cmd-missing walker; then
   rm -rf ~/.config/wofi
 
   mkdir -p ~/.config/walker
-  cp -r ~/.local/share/omarchy/config/walker/* ~/.config/walker/
+  cp -r ~/.local/share/hyprisos/config/walker/* ~/.config/walker/
 fi
